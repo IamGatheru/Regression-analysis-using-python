@@ -1,0 +1,1 @@
+ This repository will contain economic datasets from Kaggle and will be subject to scrutiny using the Python Programming Language and/or R. In the folders in it, I will add more information on replicability, will talk a bit about challenges encountered if any and then a general overview of the projects. The main motivation is a deep desire to learn from available datasets.
